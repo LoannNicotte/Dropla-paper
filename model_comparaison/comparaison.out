@@ -1,0 +1,12 @@
+20 images avec masque manuel, 3 modeles, appareil : cuda
+Modele charge : 0 % manuel
+Modele charge : 0 % manuel scratch
+Modele charge : 10 % manuel scratch
+  20/20
+
+IoU tronc generale par rapport au masque manuel :
+  SAM 3                     0.4063
+  0 % manuel                0.4767
+  0 % manuel scratch        0.4787
+  10 % manuel scratch       0.4762
+Planches enregistrees dans /ceph/home/student.aau.dk/ek03mz/Dropla/paper/comparaison/comp1

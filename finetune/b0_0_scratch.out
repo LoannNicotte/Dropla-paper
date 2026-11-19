@@ -1,0 +1,117 @@
+Noeud : ailab-l4-08 ; demarrage : Tue Nov 17 19:05:54 CET 2026 ; GPU alloues : 1
+(nvidia-smi liste tous les GPU du noeud, pas seulement les tiens) :
+NVIDIA L4, 23034 MiB
+NVIDIA L4, 23034 MiB
+NVIDIA L4, 23034 MiB
+NVIDIA L4, 23034 MiB
+NVIDIA L4, 23034 MiB
+NVIDIA L4, 23034 MiB
+NVIDIA L4, 23034 MiB
+NVIDIA L4, 23034 MiB
+Entrainement from scratch (poids aleatoires)
+1 GPU utilises
+Epoque 1/50 : perte 0.3948, IoU tronc val 0.3768
+Epoque 2/50 : perte 0.2841, IoU tronc val 0.4107
+Epoque 3/50 : perte 0.2549, IoU tronc val 0.4407
+Epoque 4/50 : perte 0.2398, IoU tronc val 0.4437
+Epoque 5/50 : perte 0.2266, IoU tronc val 0.4544
+Epoque 6/50 : perte 0.2220, IoU tronc val 0.4348
+Epoque 7/50 : perte 0.2118, IoU tronc val 0.4367
+Epoque 8/50 : perte 0.2064, IoU tronc val 0.4588
+Epoque 9/50 : perte 0.2024, IoU tronc val 0.4728
+Epoque 10/50 : perte 0.1972, IoU tronc val 0.4571
+Epoque 11/50 : perte 0.1941, IoU tronc val 0.4649
+Epoque 12/50 : perte 0.1894, IoU tronc val 0.4707
+Epoque 13/50 : perte 0.1914, IoU tronc val 0.4834
+Epoque 14/50 : perte 0.1841, IoU tronc val 0.4571
+Epoque 15/50 : perte 0.1804, IoU tronc val 0.4678
+Epoque 16/50 : perte 0.1772, IoU tronc val 0.4698
+Epoque 17/50 : perte 0.1747, IoU tronc val 0.4779
+Epoque 18/50 : perte 0.1741, IoU tronc val 0.4672
+Epoque 19/50 : perte 0.1742, IoU tronc val 0.4646
+Epoque 20/50 : perte 0.1703, IoU tronc val 0.4829
+Epoque 21/50 : perte 0.1677, IoU tronc val 0.4482
+Epoque 22/50 : perte 0.1677, IoU tronc val 0.4520
+Epoque 23/50 : perte 0.1660, IoU tronc val 0.4691
+Epoque 24/50 : perte 0.1631, IoU tronc val 0.4716
+Epoque 25/50 : perte 0.1615, IoU tronc val 0.4680
+Epoque 26/50 : perte 0.1592, IoU tronc val 0.4618
+Epoque 27/50 : perte 0.1576, IoU tronc val 0.4686
+Epoque 28/50 : perte 0.1567, IoU tronc val 0.4755
+Epoque 29/50 : perte 0.1569, IoU tronc val 0.4600
+Epoque 30/50 : perte 0.1545, IoU tronc val 0.4710
+Epoque 31/50 : perte 0.1537, IoU tronc val 0.4570
+Epoque 32/50 : perte 0.1552, IoU tronc val 0.4642
+Epoque 33/50 : perte 0.1495, IoU tronc val 0.4766
+Epoque 34/50 : perte 0.1500, IoU tronc val 0.4654
+Epoque 35/50 : perte 0.1474, IoU tronc val 0.4659
+Epoque 36/50 : perte 0.1460, IoU tronc val 0.4714
+Epoque 37/50 : perte 0.1450, IoU tronc val 0.4591
+Epoque 38/50 : perte 0.1433, IoU tronc val 0.4479
+Epoque 39/50 : perte 0.1500, IoU tronc val 0.4703
+Epoque 40/50 : perte 0.1446, IoU tronc val 0.4761
+Epoque 41/50 : perte 0.1426, IoU tronc val 0.4668
+Epoque 42/50 : perte 0.1405, IoU tronc val 0.4598
+Epoque 43/50 : perte 0.1383, IoU tronc val 0.4769
+Epoque 44/50 : perte 0.1371, IoU tronc val 0.4658
+Epoque 45/50 : perte 0.1369, IoU tronc val 0.4705
+Epoque 46/50 : perte 0.1373, IoU tronc val 0.4790
+Epoque 47/50 : perte 0.1355, IoU tronc val 0.4633
+Epoque 48/50 : perte 0.1342, IoU tronc val 0.4777
+Epoque 49/50 : perte 0.1328, IoU tronc val 0.4765
+Epoque 50/50 : perte 0.1330, IoU tronc val 0.4735
+Termine. Meilleure IoU tronc : 0.4834
+Entrainement from scratch (poids aleatoires)
+1 GPU utilises
+Epoque 1/50 : perte 0.4210, IoU tronc val 0.3864
+Epoque 2/50 : perte 0.3198, IoU tronc val 0.4180
+Epoque 3/50 : perte 0.2932, IoU tronc val 0.3534
+Epoque 4/50 : perte 0.2812, IoU tronc val 0.4470
+Epoque 5/50 : perte 0.2732, IoU tronc val 0.4328
+Epoque 6/50 : perte 0.2642, IoU tronc val 0.4516
+Epoque 7/50 : perte 0.2579, IoU tronc val 0.4368
+Epoque 8/50 : perte 0.2540, IoU tronc val 0.4588
+Epoque 9/50 : perte 0.2502, IoU tronc val 0.4574
+Epoque 10/50 : perte 0.2464, IoU tronc val 0.4631
+Epoque 11/50 : perte 0.2430, IoU tronc val 0.4668
+Epoque 12/50 : perte 0.2412, IoU tronc val 0.4268
+Epoque 13/50 : perte 0.2412, IoU tronc val 0.4541
+Epoque 14/50 : perte 0.2386, IoU tronc val 0.4593
+Epoque 15/50 : perte 0.2322, IoU tronc val 0.4605
+Epoque 16/50 : perte 0.2286, IoU tronc val 0.4475
+Epoque 17/50 : perte 0.2270, IoU tronc val 0.4567
+Epoque 18/50 : perte 0.2269, IoU tronc val 0.4693
+Epoque 19/50 : perte 0.2219, IoU tronc val 0.4657
+Epoque 20/50 : perte 0.2216, IoU tronc val 0.4638
+Epoque 21/50 : perte 0.2205, IoU tronc val 0.4686
+Epoque 22/50 : perte 0.2152, IoU tronc val 0.4572
+Epoque 23/50 : perte 0.2152, IoU tronc val 0.4688
+Epoque 24/50 : perte 0.2126, IoU tronc val 0.4262
+Epoque 25/50 : perte 0.2094, IoU tronc val 0.4563
+Epoque 26/50 : perte 0.2063, IoU tronc val 0.4614
+Epoque 27/50 : perte 0.2054, IoU tronc val 0.4697
+Epoque 28/50 : perte 0.2049, IoU tronc val 0.4604
+Epoque 29/50 : perte 0.2023, IoU tronc val 0.4618
+Epoque 30/50 : perte 0.2000, IoU tronc val 0.4704
+Epoque 31/50 : perte 0.1995, IoU tronc val 0.4618
+Epoque 32/50 : perte 0.1960, IoU tronc val 0.4636
+Epoque 33/50 : perte 0.1932, IoU tronc val 0.4514
+Epoque 34/50 : perte 0.1913, IoU tronc val 0.4623
+Epoque 35/50 : perte 0.1927, IoU tronc val 0.4513
+Epoque 36/50 : perte 0.1862, IoU tronc val 0.4446
+Epoque 37/50 : perte 0.1861, IoU tronc val 0.4628
+Epoque 38/50 : perte 0.1848, IoU tronc val 0.4638
+Epoque 39/50 : perte 0.1838, IoU tronc val 0.4541
+Epoque 40/50 : perte 0.1804, IoU tronc val 0.4519
+Epoque 41/50 : perte 0.1818, IoU tronc val 0.4593
+Epoque 42/50 : perte 0.1798, IoU tronc val 0.4615
+Epoque 43/50 : perte 0.1780, IoU tronc val 0.4594
+Epoque 44/50 : perte 0.1766, IoU tronc val 0.4650
+Epoque 45/50 : perte 0.1736, IoU tronc val 0.4604
+Epoque 46/50 : perte 0.1741, IoU tronc val 0.4519
+Epoque 47/50 : perte 0.1739, IoU tronc val 0.4499
+Epoque 48/50 : perte 0.1712, IoU tronc val 0.4561
+Epoque 49/50 : perte 0.1705, IoU tronc val 0.4539
+Epoque 50/50 : perte 0.1722, IoU tronc val 0.4580
+Termine. Meilleure IoU tronc : 0.4704
+Fin : Wed Nov 18 01:16:29 CET 2026

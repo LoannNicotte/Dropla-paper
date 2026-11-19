@@ -1,0 +1,15 @@
+200 masques manuels, 250 masques SAM 3, 200 en commun
+
+IoU tronc generale     : 0.4143
+IoU tronc moyenne      : 0.4015  (moyenne des 200 images)
+Precision SAM 3        : 0.8473  (part des troncs SAM 3 qui sont vraiment des troncs)
+Rappel SAM 3           : 0.4477  (part des vrais troncs trouves par SAM 3)
+
+5 images les moins bonnes :
+  img1                 IoU 0.0000  (13.2 % de tronc dans le masque manuel)
+  img1213              IoU 0.0000  (2.5 % de tronc dans le masque manuel)
+  img1221              IoU 0.0000  (45.8 % de tronc dans le masque manuel)
+  img1226              IoU 0.0000  (7.4 % de tronc dans le masque manuel)
+  img19                IoU 0.0000  (12.1 % de tronc dans le masque manuel)
+
+Detail par image : /ceph/home/student.aau.dk/ek03mz/Dropla/paper/model_comparaison/iou_sam3_val.csv
